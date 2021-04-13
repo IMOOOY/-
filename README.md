@@ -10,7 +10,7 @@
 
 
 
-![ an image that is a file in the directory.](./截屏2021-04-13 下午9.08.11.png)
+![ an image that is a file in the directory.](./img.png)
 
 
 
